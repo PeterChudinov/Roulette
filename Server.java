@@ -114,7 +114,6 @@ public class Server {
 	}
 	
 	public static void main(String[] args) {
-		//start server on port 5051 just like SOSI in Russian :D
 		int portNumber = 5051;
 		
 		//creates a server object and starts it
